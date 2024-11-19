@@ -52,7 +52,7 @@ pip install streamlit langchain faiss-cpu openai python-dotenv
      ```
 
 4. **Using the App**:
-   - Enter article URLs in the sidebar, click "Process URLs," and ask questions about the content. The AI model will respond with answers based on the article data, along with source references.
+   - Enter article URLs in the sidebar, click "Process URLs, " and ask questions about the content. The AI model will respond with answers based on the article data, along with source references.
 
 ### Ideal Use Cases
 This tool is perfect for news research, academic study, and general research projects requiring AI-driven insights from web content.
