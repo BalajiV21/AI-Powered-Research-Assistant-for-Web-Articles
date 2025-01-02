@@ -46,7 +46,7 @@ pip install streamlit langchain faiss-cpu openai python-dotenv
      ```
 
 3. **Run the Streamlit App**:
-   - Start the app with the following command:
+   - Start the app with the following command :
      ```bash
      streamlit run app.py
      ```
