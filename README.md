@@ -14,7 +14,7 @@ This project is an AI-powered research tool designed to gather, process, and ana
 - **User-Friendly Interface**: Built with Streamlit, featuring a sidebar for URL input and real-time results.
 
 ### Requirements
-To run this project, ensure you have the following libraries installed :
+To run this project, ensure you have the following libraries installed:
 
 - `os`
 - `streamlit`
