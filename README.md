@@ -6,6 +6,8 @@ Here's an expanded description with instructions on how to run the code and the 
 
 This project is an AI-powered research tool designed to gather, process, and analyze information from online articles. Built with LangChain, Streamlit, and FAISS, it allows users to input article URLs, generate insightful answers, and reference sources for enhanced research capabilities.
 
+https://github.com/BalajiV21/AI-Powered-Research-Assistant-for-Web-Articles/blob/main/AI%20Research%20Assistant.png
+
 ### Key Features
 - **URL-Based Content Retrieval**: Load and process article content directly from URLs.
 - **Intelligent Text Splitting**: Custom chunking to split long articles into manageable sections.
